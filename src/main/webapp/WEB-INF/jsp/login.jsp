@@ -4,11 +4,11 @@
 </head>
 <body>
 
-<form>
+<form method = "Post">
 Name : <input type= "text" name ="name" />
+Password :      <input type="password" name ="password" />
        <input type = "submit" />
 
 
 </body>
 </html>
-
